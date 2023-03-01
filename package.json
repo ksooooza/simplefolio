@@ -6,9 +6,8 @@
   "source": "src/index.html",
   "scripts": {
     "start": "parcel",
-    "build": "parcel build",
-    "deploy": "parcel build && netlify deploy --master"
-    },
+    "build": "parcel build"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/cobiwave/simplefolio"
